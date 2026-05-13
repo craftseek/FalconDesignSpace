@@ -70,5 +70,5 @@ Please refer to the official Creality Falcon license agreement for usage terms.
 
 ## 🔗 Links
 
-- Official site: https://www.creality.com (if applicable)
-- Creative files: https://www.craftseek.com
+- Official site: https://www.crealityfalcon.com (if applicable)
+- Creative files: https://www.crealityfalcon.com
